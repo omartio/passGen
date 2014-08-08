@@ -1,0 +1,17 @@
+td, th{
+    text-align: center;
+    width: 200px;
+}
+
+td span{
+    padding: 4px;
+    
+}
+
+.container{
+    padding-top: 20px;
+}
+
+.zeroclipboard-is-hover{
+    background-color: #dedede;
+}
